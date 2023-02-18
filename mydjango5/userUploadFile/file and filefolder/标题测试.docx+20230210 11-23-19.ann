@@ -1,0 +1,3 @@
+{"quote":"其主要内","text":"111","type":"实体#111#ann1","ranges":[{"start":"/p[3]","end":"/p[3]","startOffset":16,"endOffset":20}],"id":"ann1","name":"111","cate":"实体"}
+{"quote":"：工程名","text":"","type":"属性##ann2","ranges":[{"start":"/p[3]","end":"/p[3]","startOffset":23,"endOffset":27}],"id":"ann2","name":"","cate":"属性"}
+{"quote":"性质、用","text":"3333","type":"实体#2222#ann3","ranges":[{"start":"/p[3]","end":"/p[3]","startOffset":32,"endOffset":36}],"id":"ann3","name":"2222","cate":"实体"}
